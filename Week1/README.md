@@ -9,7 +9,7 @@
 - Top social media platform by magnitude
 
 
-Draw up a list of pros, cons, and average prices for the different types of influencer:
+## Different types of influencer:
 
 - Nano: Influencers with fewer than 5,000 followers. They tend to be the cheapest to partner but have the most engaged audiences.
 
