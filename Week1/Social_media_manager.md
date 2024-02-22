@@ -11,7 +11,6 @@ A social media manager leads the **promotion of a product or business** by craft
 
 ### Building a social media strategy
 
-
 ### Analytics
 
 ### Content curation
