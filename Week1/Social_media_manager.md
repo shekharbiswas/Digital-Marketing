@@ -27,6 +27,15 @@ A social media manager leads the **promotion of a product or business** by craft
 
 ### Automating social media processes
 
+### Managing social media tools
+
+### Content development
+
+### Create and oversee social media campaigns
+
+### Connecting with social media influencers
+
+### Communicate with clients
 
 
 
