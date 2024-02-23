@@ -6,9 +6,17 @@
 
 ( NOT in Order of importance )
 
-### Photos
+### Visuals Appeal
+
+Nice photos to attract customers .
+
 ### Review / Rating
+
+Good to Moderate reviews ( a balanced portfolio )
+
 ### Price
+
+Moderate to good price ( based on location and demand )
 
 
 
